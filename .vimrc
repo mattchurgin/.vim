@@ -1,6 +1,4 @@
-" this is a comment so you remember this later
-" insert mode; no recursive; map; <from>; <to>
-inoremap jj <Esc> 
+inoremap jk <Esc> 
 
 " set relative line numbers
 set rnu
