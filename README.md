@@ -1,1 +1,1 @@
-My version-controlled vimrc
+My version-controlled .vimrc
